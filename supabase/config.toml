@@ -1,0 +1,16 @@
+project_id = "ewfbygtwqfzlvitofmmy"
+
+[functions.seed-admin]
+verify_jwt = false
+
+[functions.update-profile]
+verify_jwt = false
+
+[functions.admin-mutate]
+verify_jwt = false
+
+[functions.upload-avatar]
+verify_jwt = false
+
+[functions.delete-avatar]
+verify_jwt = false
